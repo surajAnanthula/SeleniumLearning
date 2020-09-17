@@ -1,0 +1,9 @@
+2020-09-16 11:54:53,871 [main] INFO com.base_class.Library_Class - Starting with Browser Set Up
+2020-09-16 11:55:11,304 [main] INFO com.base_class.Library_Class - Identified the browser as chrome. Launching the browser
+2020-09-16 12:17:21,157 [main] INFO com.base_class.Library_Class - Starting with Browser Set Up
+2020-09-16 12:17:35,856 [main] INFO com.base_class.Library_Class - Identified the browser as chrome. Launching the browser
+2020-09-16 12:25:04,939 [main] INFO com.base_class.Library_Class - Starting with Browser Set Up
+2020-09-16 12:25:15,445 [main] INFO com.base_class.Library_Class - Identified the browser as chrome. Launching the browser
+2020-09-16 12:25:38,342 [main] INFO com.base_class.Library_Class - Launched the FreeCRM Application
+2020-09-16 12:25:38,343 [main] INFO com.base_class.Library_Class - Browser Launched
+2020-09-16 12:25:42,129 [main] INFO com.base_class.Library_Class - Browser Login Successfully
